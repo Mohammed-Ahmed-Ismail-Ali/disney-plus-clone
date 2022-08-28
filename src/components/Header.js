@@ -12,7 +12,7 @@ function Header() {
         </a>
       </Logo>
       <NavMenu>
-        <a href="#">
+        <a href="index.html">
           <img src="./images/home-icon.svg" />
           <span>Home</span>
         </a>
